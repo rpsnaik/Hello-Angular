@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Food 1",
+        "country": "IN",
+        "thumbnail": null,
+        "is_non_veg": true
+    },
+    {
+        "id": 2,
+        "name": "Food 2",
+        "country": "IN",
+        "thumbnail": null,
+        "is_non_veg": true
+    },
+    {
+        "id": 3,
+        "name": "Food 3",
+        "country": "IN",
+        "thumbnail": null,
+        "is_non_veg": true
+    },
+    {
+        "id": 4,
+        "name": "Food 4",
+        "country": "IN",
+        "thumbnail": null,
+        "is_non_veg": true
+    },
+    {
+        "id": 5,
+        "name": "Food 5",
+        "country": "IN",
+        "thumbnail": null,
+        "is_non_veg": true
+    },
+]
